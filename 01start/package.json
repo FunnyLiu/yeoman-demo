@@ -1,0 +1,21 @@
+{
+  "name": "01start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "yo webapp",
+    "angular": "yo angular:controller MyController",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "generator-angular": "^0.16.0",
+    "generator-webapp": "^4.0.0-8",
+    "mocha": "^8.0.1",
+    "yo": "^3.1.1"
+  }
+}
